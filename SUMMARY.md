@@ -1,6 +1,7 @@
-# Summary
+# Table of contents
 
 ## Overview
+
 * [Tetreum Documentation](README.md)
 * [Executive Summary](executive-summary/README.md)
   * [Tetreum Overview](executive-summary/tetreum-overview.md)
@@ -16,6 +17,7 @@
 * [Market Opportunity](market-opportunity.md)
 
 ## Network
+
 * [Tetreum Architecture](architecture/README.md)
   * [Network Design](architecture/network-design.md)
   * [Node Roles](architecture/node-roles.md)
@@ -30,6 +32,7 @@
   * [Scalability](key-features/scalability.md)
 
 ## Token and Governance
+
 * [TET Tokenomics](tokenomics/README.md)
   * [Distribution](tokenomics/distribution.md)
 * [Use Cases](use-cases/README.md)
@@ -43,7 +46,16 @@
   * [DAO Structure](governance-and-dao/dao-structure.md)
   * [Voting System](governance-and-dao/voting-system.md)
 
+## API Archive
+
+* [API Archive](api-archive/api-archive.md)
+* [Requests & Limits](api-archive/requests-and-limits.md)
+* [Tetreum Testnet RPC API](api-archive/tetreum-testnet-rpc-api/README.md)
+  * [Rest API Endpoints](api-archive/tetreum-testnet-rpc-api/rest-api-endpoints.md)
+* [GraphQL API](api-archive/graphql-api.md)
+
 ## Ecosystem and Growth
+
 * [Tetreum Ecosystem](ecosystem.md)
 * [Security Model](security-model.md)
 * [Roadmap](roadmap/README.md)
@@ -54,6 +66,7 @@
   * [Advisory Board](team-and-advisors/advisory-board.md)
 
 ## Sale and Legal
+
 * [TET Token Sale Details](token-sale/README.md)
   * [Fund Allocation](token-sale/fund-allocation.md)
   * [Sale Rounds](token-sale/sale-rounds.md)
