@@ -1,6 +1,6 @@
 # Table of contents
 
-## Overview
+## 📃 Overview
 
 * [Tetreum Documentation](README.md)
 * [Executive Summary](executive-summary/README.md)
@@ -16,7 +16,12 @@
   * [Mission](vision-and-mission/mission.md)
 * [Market Opportunity](market-opportunity.md)
 
-## Network
+## ✅ Getting Started
+
+* [How to Buy Tetreum (TET)](getting-started/how-to-buy-tetreum-tet.md)
+* [Import Tetreum (TET)](getting-started/import-tetreum-tet.md)
+
+## 🌐 Network
 
 * [Tetreum Architecture](architecture/README.md)
   * [Network Design](architecture/network-design.md)
@@ -31,10 +36,13 @@
   * [Speed](key-features/speed.md)
   * [Scalability](key-features/scalability.md)
 
-## Token and Governance
+## 🪙 Token and Governance
 
 * [TET Tokenomics](tokenomics/README.md)
   * [Distribution](tokenomics/distribution.md)
+  * [TET Token Sale Details](token-and-governance/tokenomics/token-sale/README.md)
+    * [Fund Allocation](token-and-governance/tokenomics/token-sale/fund-allocation.md)
+    * [Sale Rounds](token-and-governance/tokenomics/token-sale/sale-rounds.md)
 * [Use Cases](use-cases/README.md)
   * [Payments](use-cases/payments.md)
   * [TET Staking](use-cases/tet-staking.md)
@@ -46,7 +54,7 @@
   * [DAO Structure](governance-and-dao/dao-structure.md)
   * [Voting System](governance-and-dao/voting-system.md)
 
-## API Archive
+## 🗄️ API Archive
 
 * [API Archive](api-archive/api-archive.md)
 * [Requests & Limits](api-archive/requests-and-limits.md)
@@ -54,7 +62,7 @@
   * [Rest API Endpoints](api-archive/tetreum-testnet-rpc-api/rest-api-endpoints.md)
 * [GraphQL API](api-archive/graphql-api.md)
 
-## Ecosystem and Growth
+## 🌱 Ecosystem and Growth
 
 * [Tetreum Ecosystem](ecosystem.md)
 * [Security Model](security-model.md)
@@ -65,13 +73,10 @@
   * [Core Team](team-and-advisors/core-team.md)
   * [Advisory Board](team-and-advisors/advisory-board.md)
 
-## Sale and Legal
+## ⚖️ Sale and Legal
 
-* [TET Token Sale Details](token-sale/README.md)
-  * [Fund Allocation](token-sale/fund-allocation.md)
-  * [Sale Rounds](token-sale/sale-rounds.md)
 * [Regulatory and Compliance](regulatory-and-compliance.md)
-* [Community and Growth Strategy](community-and-growth-strategy/README.md)
+* [Community & Growth Strategy](community-and-growth-strategy/README.md)
   * [Marketing](community-and-growth-strategy/marketing.md)
   * [Community Rewards](community-and-growth-strategy/community-rewards.md)
 * [Risks and Mitigation](risks-and-mitigation/README.md)
