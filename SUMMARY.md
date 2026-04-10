@@ -83,3 +83,15 @@
   * [Risk Factors](risks-and-mitigation/risk-factors.md)
   * [Mitigation Plans](risks-and-mitigation/mitigation-plans.md)
 * [Legal Disclaimer](legal-disclaimer.md)
+
+## 🔗 Official Links
+
+* [Website](https://tetreum.com/)
+* [Whitepaper:](https://tetreum.com/whitepaper.pdf)
+* [Twitter / X](https://x.com/tetreum)
+* [Youtube](https://www.youtube.com/@tetreum)
+* [CoinGecko](https://www.coingecko.com/en/coins/tetreum)
+* [Linktree](https://linktr.ee/tetreum)
+* [Mainnet Explorer](https://tetscan.com/)
+* [Testnet Explorer](https://testnet.tetscan.com/)
+* [Faucet](https://faucet.tetreum.com/)
