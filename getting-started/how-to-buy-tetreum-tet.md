@@ -96,9 +96,9 @@ Make sure you withdraw funds to the correct network. Sending funds to the wrong 
 
 ### Step 5 — Connect Your Wallet
 
-Go to your dashboard:
+Go to token sale page:
 
-[**https://dapp.tetreum.com/dashboard**](https://dapp.tetreum.com/dashboard)
+[**https://dapp.tetreum.com/buy**](https://dapp.tetreum.com/buy)
 
 Click **Connect Wallet** and approve the connection request inside your wallet app.
 
@@ -130,9 +130,9 @@ Manual Payment allows you to send crypto manually to the provided wallet address
 
 ### Step 2 — Go to Manual Payment
 
-After logging in, go to your dashboard:
+After logging in, go to token sale page:
 
-[**https://dapp.tetreum.com/dashboard**](https://dapp.tetreum.com/dashboard)
+[**https://dapp.tetreum.com/buy**](https://dapp.tetreum.com/buy)
 
 Click **Manual Payment**.
 
