@@ -168,7 +168,7 @@ Manual Payment supports 16+ cryptocurrencies, including:
 
 Open:
 
-https://dapp.tetreum.com/buy
+[https://dapp.tetreum.com/buy](https://dapp.tetreum.com/buy)
 {% endstep %}
 
 {% step %}
