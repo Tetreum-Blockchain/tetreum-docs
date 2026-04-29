@@ -1,10 +1,9 @@
 ---
+description: Wallet Connect & Manual Payment
 icon: wallet
 ---
 
 # How To Buy Tetreum (TET)
-
-## How to Buy TET Token on Tetreum
 
 Tetreum provides two purchase methods for the TET presale: **Wallet Connect** and **Manual Payment**.
 
