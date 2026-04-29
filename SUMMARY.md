@@ -20,6 +20,7 @@
 
 * [How To Buy Tetreum (TET)](getting-started/how-to-buy-tetreum-tet.md)
 * [Import Tetreum (TET)](getting-started/import-tetreum-tet.md)
+* [How To Stake Tetreum (TET)](getting-started/how-to-stake-tetreum-tet.md)
 
 ## 🌐 Network
 
