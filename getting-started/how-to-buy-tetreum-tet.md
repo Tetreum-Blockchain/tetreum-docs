@@ -11,14 +11,14 @@ Users can buy TET directly through a Web3 wallet or complete a manual crypto pay
 
 ### Official Links
 
-| Page         | Link                                       |
-| ------------ | ------------------------------------------ |
-| Register     | https://dapp.tetreum.com/register          |
-| Login        | https://dapp.tetreum.com/login             |
-| Buy TET      | https://dapp.tetreum.com/buy               |
-| My Tokens    | https://dapp.tetreum.com/user/my-tokens    |
-| Profile      | https://dapp.tetreum.com/user/profile      |
-| Transactions | https://dapp.tetreum.com/user/transactions |
+| Page         | Link                                                                                     |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| Register     | [https://dapp.tetreum.com/register](https://dapp.tetreum.com/register)                   |
+| Login        | [https://dapp.tetreum.com/login](https://dapp.tetreum.com/login)                         |
+| Buy TET      | [https://dapp.tetreum.com/buy](https://dapp.tetreum.com/buy)                             |
+| My Tokens    | [https://dapp.tetreum.com/user/my-tokens](https://dapp.tetreum.com/user/my-tokens)       |
+| Profile      | [https://dapp.tetreum.com/user/profile](https://dapp.tetreum.com/user/profile)           |
+| Transactions | [https://dapp.tetreum.com/user/transactions](https://dapp.tetreum.com/user/transactions) |
 
 {% hint style="warning" %}
 **Security Notice:**\
@@ -33,7 +33,7 @@ Before purchasing TET, users need an active Tetreum account.
 
 Go to:
 
-https://dapp.tetreum.com/register
+[https://dapp.tetreum.com/register](https://dapp.tetreum.com/register)
 
 Enter:
 
@@ -59,7 +59,7 @@ Users may also sign in directly using supported social login providers:
 
 Go to:
 
-https://dapp.tetreum.com/login
+[https://dapp.tetreum.com/login](https://dapp.tetreum.com/login)
 
 Log in using your email and password, or continue with one of the supported social login options.
 
@@ -90,7 +90,7 @@ A small amount of BNB is required for gas fees when using BNB Smart Chain.
 
 Open:
 
-https://dapp.tetreum.com/buy
+[https://dapp.tetreum.com/buy](https://dapp.tetreum.com/buy)
 {% endstep %}
 
 {% step %}
@@ -146,7 +146,7 @@ Once the transaction is confirmed on-chain, your TET purchase is processed autom
 
 You can track your purchased tokens here:
 
-https://dapp.tetreum.com/user/my-tokens
+[https://dapp.tetreum.com/user/my-tokens](https://dapp.tetreum.com/user/my-tokens)
 {% endstep %}
 {% endstepper %}
 
@@ -270,7 +270,7 @@ After approval, your TET tokens are added to your platform balance.
 
 You can check your tokens here:
 
-https://dapp.tetreum.com/user/my-tokens
+[https://dapp.tetreum.com/user/my-tokens](https://dapp.tetreum.com/user/my-tokens)
 {% endstep %}
 {% endstepper %}
 
@@ -282,13 +282,13 @@ Before claiming, make sure your BSC wallet address is added to your profile.
 
 Go to:
 
-https://dapp.tetreum.com/user/profile
+[https://dapp.tetreum.com/user/profile](https://dapp.tetreum.com/user/profile)
 
 Add your BNB Smart Chain wallet address.
 
 Then go to:
 
-https://dapp.tetreum.com/user/my-tokens
+[https://dapp.tetreum.com/user/my-tokens](https://dapp.tetreum.com/user/my-tokens)
 
 Click:
 
@@ -305,7 +305,7 @@ Make sure the wallet address you enter supports BNB Smart Chain. TET is a BEP-20
 
 Users can view their purchase history, payment status, submitted TXIDs, approvals, and claim records here:
 
-https://dapp.tetreum.com/user/transactions
+[https://dapp.tetreum.com/user/transactions](https://dapp.tetreum.com/user/transactions)
 
 ## 7. Wallet Connect vs Manual Payment
 
@@ -334,13 +334,13 @@ To protect your funds, follow these rules:
 
 ## 9. Quick Start
 
-1. Register at https://dapp.tetreum.com/register
+1. Register at [https://dapp.tetreum.com/register](https://dapp.tetreum.com/register)
 2. Verify your email
-3. Login at https://dapp.tetreum.com/login
-4. Go to https://dapp.tetreum.com/buy
+3. Login at [https://dapp.tetreum.com/login](https://dapp.tetreum.com/login)
+4. Go to [https://dapp.tetreum.com/buy](https://dapp.tetreum.com/buy)
 5. Choose Wallet Connect or Manual Payment
 6. Complete the purchase
-7. Track your tokens at https://dapp.tetreum.com/user/my-tokens
+7. Track your tokens at [https://dapp.tetreum.com/user/my-tokens](https://dapp.tetreum.com/user/my-tokens)
 8. Add your BSC wallet address in Profile
 9. Claim your TET anytime
 
@@ -350,8 +350,8 @@ Tetreum is a Web3 earn platform built around the TET token ecosystem, including 
 
 Official website:
 
-https://tetreum.com
+[https://tetreum.com](https://tetreum.com/)
 
 Dapp:
 
-https://dapp.tetreum.com
+[https://dapp.tetreum.com](https://dapp.tetreum.com/)
