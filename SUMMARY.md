@@ -18,7 +18,7 @@
 
 ## ✅ Getting Started
 
-* [How to Buy Tetreum (TET)](getting-started/how-to-buy-tetreum-tet.md)
+* [How To Buy Tetreum (TET)](getting-started/how-to-buy-tetreum-tet.md)
 * [Import Tetreum (TET)](getting-started/import-tetreum-tet.md)
 
 ## 🌐 Network

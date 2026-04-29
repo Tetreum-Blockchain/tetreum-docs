@@ -1,291 +1,358 @@
 ---
-description: >-
-  Buying TET is simple. Follow the steps below to join the Tetreum presale
-  safely.
 icon: wallet
 ---
 
-# How to Buy Tetreum (TET)
+# How To Buy Tetreum (TET)
 
-## How to Buy TET Token
+## How to Buy TET Token on Tetreum
 
-TET Token is sold during the presale on the **BNB Smart Chain (BSC)** network.
+Tetreum provides two purchase methods for the TET presale: **Wallet Connect** and **Manual Payment**.
 
-You can purchase TET using two methods:
+Users can buy TET directly through a Web3 wallet or complete a manual crypto payment from an exchange or external wallet.
 
-1. **Wallet Connect** — Recommended
-2. **Manual Payment**
+### Official Links
+
+| Page         | Link                                       |
+| ------------ | ------------------------------------------ |
+| Register     | https://dapp.tetreum.com/register          |
+| Login        | https://dapp.tetreum.com/login             |
+| Buy TET      | https://dapp.tetreum.com/buy               |
+| My Tokens    | https://dapp.tetreum.com/user/my-tokens    |
+| Profile      | https://dapp.tetreum.com/user/profile      |
+| Transactions | https://dapp.tetreum.com/user/transactions |
 
 {% hint style="warning" %}
-Always use the official Tetreum presale platform only: [dapp.tetreum.com](https://dapp.tetreum.com)
+**Security Notice:**\
+Always use only the official Tetreum links. Tetreum support will never ask for your seed phrase, private key, wallet recovery phrase, or password.
 {% endhint %}
 
-Do not trust random links, direct messages, social media comments, or unofficial payment addresses.---
+## 1. Create Your Account
 
-## Step 1 — Create Your Account
+Before purchasing TET, users need an active Tetreum account.
 
-Before buying TET, you need to create a free account on the presale platform.
+### Register
 
 Go to:
 
-[**https://dapp.tetreum.com/register**](https://dapp.tetreum.com/register)
+https://dapp.tetreum.com/register
 
-Then follow these steps:
+Enter:
 
-1. Enter your email address.
-2. Choose a secure password.
-3. Check your inbox and click the verification link.
-4. Log in here:
+* Name
+* Email address
+* Password
 
-[**https://dapp.tetreum.com/login**](https://dapp.tetreum.com/login)
+After registration, confirm your email using the verification code sent to your inbox.
 
-Once your account is verified, you can access your dashboard:
+Once the email is verified, your account becomes active.
 
-[**https://dapp.tetreum.com/dashboard**](https://dapp.tetreum.com/dashboard)
+### Social Login
 
-***
+Users may also sign in directly using supported social login providers:
 
-## Method 1: Wallet Connect
+* Google
+* GitHub
+* Discord
+* Microsoft
+* Yahoo
 
-Wallet Connect is the recommended method because the purchase is completed directly through your Web3 wallet.
+## 2. Login to Your Account
 
-***
+Go to:
 
-### Step 2 — Install a Web3 Wallet
+https://dapp.tetreum.com/login
 
-Download and install a Web3 wallet such as:
+Log in using your email and password, or continue with one of the supported social login options.
+
+## 3. Method 1 — Wallet Connect
+
+Wallet Connect is the fastest purchase method. It allows users to buy TET directly on-chain using a supported Web3 wallet.
+
+### Requirements
+
+You need a Web3 wallet such as:
 
 * MetaMask
 * Trust Wallet
-* Any WalletConnect-compatible wallet
+* WalletConnect-compatible wallet
 
-You can use either a browser extension or a mobile wallet.
+Your wallet should contain one of the supported payment cryptocurrencies:
 
-***
-
-### Step 3 — Add BSC Network
-
-Make sure your wallet is set to **BNB Smart Chain**.
-
-**Network:** BNB Smart Chain\
-**Chain ID:** `56`
-
-Most major wallets support BNB Smart Chain by default.
-
-***
-
-### Step 4 — Fund Your Wallet
-
-Add BNB or another supported token to your wallet.
-
-Supported payment options may include:
-
-* BNB
-* USDT
-* USDC
-* ETH
-* SOL
-
-You can buy crypto from a major exchange and withdraw it to your own wallet address.
-
-{% hint style="info" %}
-Make sure you withdraw funds to the correct network. Sending funds to the wrong network may result in permanent loss.
-{% endhint %}
-
-\---
-
-### Step 5 — Connect Your Wallet
-
-Go to token sale page:
-
-[**https://dapp.tetreum.com/buy**](https://dapp.tetreum.com/buy)
-
-Click **Connect Wallet** and approve the connection request inside your wallet app.
-
-***
-
-### Step 6 — Select Token and Amount
-
-Choose which coin you want to pay with.
-
-Then enter how many **TET tokens** you want to purchase.
-
-The system will automatically calculate the equivalent cost based on the current rate.
-
-***
-
-### Step 7 — Confirm the Transaction
-
-Click **Buy Now** and approve the transaction in your wallet.
-
-Once the transaction is confirmed on-chain, your TET purchase will be recorded and your balance will appear in your dashboard.
-
-***
-
-## Method 2: Manual Payment
-
-Manual Payment allows you to send crypto manually to the provided wallet address and submit your transaction hash for review.
-
-***
-
-### Step 2 — Go to Manual Payment
-
-After logging in, go to token sale page:
-
-[**https://dapp.tetreum.com/buy**](https://dapp.tetreum.com/buy)
-
-Click **Manual Payment**.
-
-***
-
-### Step 3 — Choose Your Coin
-
-Select the cryptocurrency you want to pay with.
-
-Supported coins may include:
-
-* BTC
-* ETH
-* BNB
-* USDT
-* USDC
-* SOL
-* ADA
-* XRP
-* DOT
-* TRX
-* XLM
-* SHIB
-* PEPE
-* SUI
-* BGB
-* KCS
-* LEO
-* ASTR
-* USD1
-
-{% hint style="info" %}
-Available coins and networks may vary. Always check the payment screen before sending funds.
-{% endhint %}
-
-### Step 4 — Enter the Amount
-
-Enter how many **TET tokens** you want to buy.
-
-The exact amount you need to send will be displayed based on the live rate.
-
-***
-
-### Step 5 — Send the Payment
-
-Send the exact amount shown on the payment screen to the wallet address displayed.
-
-Before sending, always verify:
-
-* Selected coin/token
-* Wallet address
-* Network
-* Exact payment amount
-
-{% hint style="danger" %}
-Sending funds on the wrong network or to the wrong address may result in permanent loss. Always verify all details before confirming your transaction.
-{% endhint %}
-
-### Step 6 — Submit Your Transaction Hash
-
-After sending the payment, copy your transaction hash, also known as the **TX ID**.
-
-Paste it into the manual payment form and click **Submit**.
-
-***
-
-### Step 7 — Wait for Approval
-
-Your payment will be reviewed manually by the team.
-
-Manual payments are usually reviewed within **24 hours**.
-
-Once approved, your TET tokens will appear in your dashboard:
-
-**https://dapp.tetreum.com/dashboard**
-
-***
-
-## Frequently Asked Questions
-
-### When will I receive my TET tokens?
-
-TET tokens are distributed after the presale ends and the **TGE — Token Generation Event** takes place.
-
-You can track your allocation anytime from your dashboard.
-
-***
-
-### Is there a minimum purchase?
-
-Yes. The minimum purchase amount is displayed on the presale page and may vary depending on the payment method.
-
-***
-
-### What if I sent the wrong amount?
-
-Contact support with your transaction hash.
-
-Since manual payments are reviewed by the team, corrections may be possible before approval.
-
-***
-
-### Is my payment secure?
-
-Wallet addresses are controlled directly by the project team.
-
-Always copy wallet addresses from the official Tetreum presale platform only:
-
-[**https://dapp.tetreum.com**](https://dapp.tetreum.com/)
+* BNB , USDT, USDC, ETH, SOL
 
 {% hint style="warning" %}
-Never use wallet addresses shared through third-party websites, direct messages, social media comments, or unofficial groups.
+**Important:**\
+A small amount of BNB is required for gas fees when using BNB Smart Chain.
 {% endhint %}
 
-***
+{% stepper %}
+{% step %}
+### Go to the Buy Page
 
-### Which network should I use for manual payments?
+Open:
 
-The correct network for each coin is shown next to the wallet address on the payment screen.
+https://dapp.tetreum.com/buy
+{% endstep %}
 
-Always verify the network before sending your payment.
+{% step %}
+### Select Wallet Connect
 
-***
+At the top of the buy page, choose:
 
-### What should I do if I sent funds on the wrong network?
+**Wallet Connect**
+{% endstep %}
 
-Contact support immediately and provide:
+{% step %}
+### Connect Your Wallet
 
-* Your account email
-* Coin/token sent
-* Network used
-* Amount sent
-* Transaction hash / TX ID
+Click:
 
-Recovery is not guaranteed if funds are sent on the wrong network.
+**Connect Wallet**
 
-***
+Then approve the connection inside your wallet app.
 
-### I have another question.
+Supported wallets include MetaMask, Trust Wallet, and WalletConnect-compatible wallets.
+{% endstep %}
 
-You can contact support here:
+{% step %}
+### Select Payment Crypto
 
-[**https://tetreum.com/contact**](https://tetreum.com/contact)
+Choose the cryptocurrency you want to use for payment:
 
-You can also join the official Tetreum community channels from the official website.
+* BNB, USDT, USDC, ETH, SOL
+{% endstep %}
 
-***
+{% step %}
+### Enter USD Amount
 
-## Important Security Notice
+Enter the amount in USD.
 
-Only use the official Tetreum links:
+The system will automatically calculate how many TET tokens you will receive.
+{% endstep %}
 
-**Main website:** [https://tetreum.com](https://tetreum.com/)\
-**Presale platform:** [https://dapp.tetreum.com](https://dapp.tetreum.com/)
+{% step %}
+### Confirm Purchase
 
-Do not trust random links, fake websites, direct messages, or unofficial payment requests.
+Click:
+
+**Buy Now**
+
+Then confirm the transaction inside your wallet.
+{% endstep %}
+
+{% step %}
+### Receive TET
+
+Once the transaction is confirmed on-chain, your TET purchase is processed automatically.
+
+You can track your purchased tokens here:
+
+https://dapp.tetreum.com/user/my-tokens
+{% endstep %}
+{% endstepper %}
+
+## 4. Method 2 — Manual Payment
+
+Manual Payment allows users to purchase TET without connecting a Web3 wallet.
+
+This method is suitable for users who want to pay from an exchange such as Binance, OKX, or from an external wallet.
+
+### Supported Cryptocurrencies
+
+Manual Payment supports 16+ cryptocurrencies, including:
+
+* BTC, ETH, USDT, USDC, BNB, SOL, TRX, ADA, DOT, XRP, XLM, TON, SUI, PEPE, SHIB, +...
+
+{% stepper %}
+{% step %}
+### Go to the Buy Page
+
+Open:
+
+https://dapp.tetreum.com/buy
+{% endstep %}
+
+{% step %}
+### Select Manual Payment
+
+At the top of the buy page, choose:
+
+**Manual Payment**
+{% endstep %}
+
+{% step %}
+### Select Payment Crypto
+
+Choose the cryptocurrency you want to use.
+
+Example:
+
+**USDT**
+{% endstep %}
+
+{% step %}
+### Enter USD Amount
+
+Enter how much USD worth of TET you want to buy.
+
+The platform will automatically calculate the required crypto amount using live rates.
+{% endstep %}
+
+{% step %}
+### Copy the Deposit Address
+
+The platform will show a deposit address for the selected cryptocurrency.
+
+Copy the address carefully.
+
+{% hint style="warning" %}
+**Important:**\
+Only send the selected cryptocurrency to the address shown on the official Tetreum dapp.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Send the Exact Amount
+
+Send the exact amount from your exchange or wallet to the displayed deposit address.
+
+Network selection is very important.
+
+| Crypto | Required Network                    |
+| ------ | ----------------------------------- |
+| USDT   | BEP-20                              |
+| BNB    | BEP-20                              |
+| ETH    | ERC-20                              |
+| USDC   | Network shown on the payment screen |
+| BTC    | BTC network                         |
+| SOL    | Solana network                      |
+| TRX    | TRON network                        |
+
+{% hint style="warning" %}
+**Warning:**\
+Sending funds through the wrong network may result in permanent loss.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### Copy the Transaction Hash
+
+After sending the payment, open your exchange or wallet transaction history and copy the Transaction Hash / TXID.
+
+Example format:
+
+```txt
+0xabc123...
+```
+{% endstep %}
+
+{% step %}
+### Submit the TXID
+
+Paste the TXID into the Manual Payment form.
+
+Then click:
+
+**Submit**
+{% endstep %}
+
+{% step %}
+### Admin Verification
+
+The Tetreum team verifies the submitted transaction hash on-chain.
+
+Manual payments are usually reviewed and approved within **1 hour**.
+{% endstep %}
+
+{% step %}
+### TET Added to Platform Balance
+
+After approval, your TET tokens are added to your platform balance.
+
+You can check your tokens here:
+
+https://dapp.tetreum.com/user/my-tokens
+{% endstep %}
+{% endstepper %}
+
+## 5. Claim Your TET Tokens
+
+Users can claim their available TET tokens at any time.
+
+Before claiming, make sure your BSC wallet address is added to your profile.
+
+Go to:
+
+https://dapp.tetreum.com/user/profile
+
+Add your BNB Smart Chain wallet address.
+
+Then go to:
+
+https://dapp.tetreum.com/user/my-tokens
+
+Click:
+
+**Claim**
+
+Your available TET tokens will be transferred to your BSC wallet.
+
+{% hint style="warning" %}
+**Important:**\
+Make sure the wallet address you enter supports BNB Smart Chain. TET is a BEP-20 token.
+{% endhint %}
+
+## 6. Transaction History
+
+Users can view their purchase history, payment status, submitted TXIDs, approvals, and claim records here:
+
+https://dapp.tetreum.com/user/transactions
+
+## 7. Wallet Connect vs Manual Payment
+
+| Feature          | Wallet Connect              | Manual Payment                    |
+| ---------------- | --------------------------- | --------------------------------- |
+| Buy Page         | `/buy → Wallet Connect`     | `/buy → Manual Payment`           |
+| Wallet Required  | Yes                         | No                                |
+| Best For         | Web3 wallet users           | Exchange or external wallet users |
+| Approval Time    | On-chain confirmation       | Up to 1 hour                      |
+| Supported Crypto | 5 cryptocurrencies          | 20+ cryptocurrencies              |
+| Token Delivery   | Automatic                   | Added after admin verification    |
+| Claim            | Available through My Tokens | Available through My Tokens       |
+
+## 8. Security Rules
+
+To protect your funds, follow these rules:
+
+* Use only official Tetreum links.
+* Never share your seed phrase.
+* Never share your private key.
+* Never send funds to addresses shared in DMs.
+* Tetreum support will never contact you first by private message.
+* Always verify the network before sending crypto.
+* Always copy deposit addresses only from the official dapp.
+* Always check your transaction status from the Transactions page.
+
+## 9. Quick Start
+
+1. Register at https://dapp.tetreum.com/register
+2. Verify your email
+3. Login at https://dapp.tetreum.com/login
+4. Go to https://dapp.tetreum.com/buy
+5. Choose Wallet Connect or Manual Payment
+6. Complete the purchase
+7. Track your tokens at https://dapp.tetreum.com/user/my-tokens
+8. Add your BSC wallet address in Profile
+9. Claim your TET anytime
+
+## Tetreum
+
+Tetreum is a Web3 earn platform built around the TET token ecosystem, including presale, staking, mining, referrals, task-based boosts, and token rewards.
+
+Official website:
+
+https://tetreum.com
+
+Dapp:
+
+https://dapp.tetreum.com
