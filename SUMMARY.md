@@ -41,9 +41,6 @@
 
 * [TET Tokenomics](tokenomics/README.md)
   * [Distribution](tokenomics/distribution.md)
-  * [TET Token Sale Details](token-and-governance/tokenomics/token-sale/README.md)
-    * [Fund Allocation](token-and-governance/tokenomics/token-sale/fund-allocation.md)
-    * [Sale Rounds](token-and-governance/tokenomics/token-sale/sale-rounds.md)
 * [Use Cases](use-cases/README.md)
   * [Payments](use-cases/payments.md)
   * [TET Staking](use-cases/tet-staking.md)
